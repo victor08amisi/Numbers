@@ -1,2 +1,6 @@
-# numbers
-This repository contains the starter files for the Numbers project. 
+# Numbers
+
+## Objective
+1. Use C# data types int, double, and string
+2. Use C# branches and loops
+
